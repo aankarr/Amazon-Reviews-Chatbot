@@ -1,2 +1,6 @@
 mini*
 *.sh
+cache/
+amazon-reviews-chatbot/
+results/
+.ipynb_checkpoints/
