@@ -3,4 +3,5 @@ mini*
 cache/
 amazon-reviews-chatbot/
 results/
+finetuned/
 .ipynb_checkpoints/
